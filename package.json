@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/trigun539/amazon-check#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "nedb": "^1.8.0"
   }
